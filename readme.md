@@ -18,4 +18,4 @@ stateManager.attach(new CalendarGuiState());
 The calendar also provides positions for the Sun and Moon in the form of a direction. This allows you to set the direction of
 a DirectionalLight, and optionally set the location by multiplying the direction.
 
-Please see the main class for an example including a sun, moon and GUI.
+Please see the [main class](https://github.com/jayfella/jme-calendar/blob/master/src/main/java/com/jayfella/jme/calendar/Main.java) for an example including a sun, moon and GUI.
